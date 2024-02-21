@@ -1,0 +1,33 @@
+.adContainer{
+    border: solid red;
+    background-color: pink;
+    display: flex;
+    padding: 15px;
+    justify-content: space-evenly;
+}
+
+.leftArrow{
+    /* border: solid purple; */
+    height: 20px;
+}
+
+.adTxt{
+    /* border:solid blue; */
+    height: 20px;
+}
+
+.adLink{
+    /* border:solid red; */
+    height: 20px;
+}
+
+.rightArrow{
+    /* border: solid purple; */
+    height: 20px;
+}
+
+.NavBar{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
